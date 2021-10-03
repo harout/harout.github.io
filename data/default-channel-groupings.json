@@ -1,20 +1,32 @@
 {
-  "Test Group A": [
+  "Governmnet": [
     {
-      "name": "Factor tv",
-      "url": "http://www.youtube.com/c/Factortv/about",
-      "id": 1
+      "name": "Armenian Public TV",
+      "url": "https://www.youtube.com/c/ArmenianPublicTV/about",
+      "id": 16
     },
     {
-      "name": "a1Plus",
-      "url": "https://www.youtube.com/c/a1plus/about",
-      "id": 2
+      "name": "Suren Sargsyan",
+      "url": "https://www.youtube.com/channel/UC-IEdDubp1Io--BquY-183g/about",
+      "id": 44
     },
     {
-      "name": "azatutyun radio",
-      "url": "https://www.youtube.com/c/azatutyunradio/about",
-      "id": 3
+      "name": "POLICE RA Vostikanutyun",
+      "url": "https://www.youtube.com/c/Vostikanutyun/about",
+      "id": 47
     },
+    {
+      "name": "Artsakh Public TV",
+      "url": "https://www.youtube.com/channel/UC0bE8sdgd54oJBscXJfupCw/about",
+      "id": 57
+    },
+    {
+      "name": "armtimes.com",
+      "url": "https://www.youtube.com/c/ArmtimesNewspaper/about",
+      "id": 70
+    }
+  ],
+  "Dubious": [
     {
       "name": "perfect tv",
       "url": "https://www.youtube.com/channel/UC8kOchMgfcXZTDtgQ67LM9Q/about",
@@ -26,24 +38,9 @@
       "id": 5
     },
     {
-      "name": "Vardan Ghukasyan \u054e\u0561\u0580\u0564\u0561\u0576 \u0542\u0578\u0582\u056f\u0561\u057d\u0575\u0561\u0576",
-      "url": "https://www.youtube.com/channel/UChXhis-jyFXzMw4o9hML3vA/about",
-      "id": 6
-    },
-    {
-      "name": "24TV",
-      "url": "https://www.youtube.com/c/24TVArmenia/about",
-      "id": 7
-    },
-    {
       "name": "365daily am",
       "url": "https://www.youtube.com/channel/UCGOYnPqyWiPwPdlvUlfuNcQ/about",
       "id": 8
-    },
-    {
-      "name": "NEWS AM",
-      "url": "https://www.youtube.com/c/NewsamChannel/about",
-      "id": 9
     },
     {
       "name": "STP ARM NEWS",
@@ -51,39 +48,9 @@
       "id": 10
     },
     {
-      "name": "ArmLur official",
-      "url": "https://www.youtube.com/channel/UChjW08B983y0T2NvktcIjfg/about",
-      "id": 11
-    },
-    {
-      "name": "1in.am",
-      "url": "https://www.youtube.com/c/1inam/about",
-      "id": 12
-    },
-    {
-      "name": "HAYELI AM",
-      "url": "https://www.youtube.com/c/Hayeliam_Hayeli_Akumb/about",
-      "id": 13
-    },
-    {
       "name": "8rd. am",
       "url": "https://www.youtube.com/channel/UCzQMSe3jpEVDTJa9jy9eEZA/about",
       "id": 14
-    },
-    {
-      "name": "YELAKET / Yelaket News Agency /",
-      "url": "https://www.youtube.com/c/YelaketNewsAgency/about",
-      "id": 15
-    },
-    {
-      "name": "Armenian Public TV",
-      "url": "https://www.youtube.com/c/ArmenianPublicTV/about",
-      "id": 16
-    },
-    {
-      "name": "5 TV Channel",
-      "url": "https://www.youtube.com/c/AraratTv/about",
-      "id": 17
     },
     {
       "name": "SHD ARM TV",
@@ -94,9 +61,7 @@
       "name": "amenor am",
       "url": "https://www.youtube.com/channel/UCfqS6YahbpwtWQRCJNOyVEw/about",
       "id": 19
-    }
-  ],
-  "Test Group B": [
+    },
     {
       "name": "AREG TV",
       "url": "https://www.youtube.com/c/aregtv/about",
@@ -108,31 +73,6 @@
       "id": 21
     },
     {
-      "name": "Asekose am",
-      "url": "https://www.youtube.com/user/ASEKOSEful/about",
-      "id": 22
-    },
-    {
-      "name": "ArmNews",
-      "url": "https://www.youtube.com/user/ArmnewsTV/about",
-      "id": 23
-    },
-    {
-      "name": "ARTN TV",
-      "url": "https://www.youtube.com/channel/UCGto6lM2ggZi4Ut4GHo31XA/about",
-      "id": 24
-    },
-    {
-      "name": "ArmLur TV",
-      "url": "https://www.youtube.com/c/ArmLurTV/about",
-      "id": 25
-    },
-    {
-      "name": "\u053c\u0548\u0552\u0550\u0535\u0550 \u0546\u0578\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0576\u0565\u0580 \u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576\u056b\u0581",
-      "url": "https://www.youtube.com/user/LURERcom/about",
-      "id": 26
-    },
-    {
       "name": "ArmeniaNow",
       "url": "https://www.youtube.com/c/ArmeniaNow/about",
       "id": 27
@@ -141,58 +81,6 @@
       "name": "SecretTube",
       "url": "https://www.youtube.com/channel/UCTRRvh0-lR9rPaC0nzNYFMA/about",
       "id": 28
-    },
-    {
-      "name": "\u0532\u0561\u0581 TV",
-      "url": "https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ/about",
-      "id": 29
-    }
-  ],
-  "Test Group C": [
-    {
-      "name": "CIVILNET",
-      "url": "https://www.youtube.com/c/CivilNetTV/about",
-      "id": 30
-    },
-    {
-      "name": "iravabannet",
-      "url": "https://www.youtube.com/user/iravabannet/about",
-      "id": 31
-    },
-    {
-      "name": "AD TV",
-      "url": "https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw/about",
-      "id": 32
-    },
-    {
-      "name": "Live News",
-      "url": "https://www.youtube.com/channel/UCCllZTHrcly_pkPvb_V1ovA/about",
-      "id": 33
-    },
-    {
-      "name": "Novosti-Armenia",
-      "url": "https://www.youtube.com/c/NovostiArmenia/about",
-      "id": 34
-    },
-    {
-      "name": "Kentron Channel",
-      "url": "https://www.youtube.com/c/KentronChannel/about",
-      "id": 35
-    },
-    {
-      "name": "Tv9 am",
-      "url": "https://www.youtube.com/c/Tv9am/about",
-      "id": 36
-    },
-    {
-      "name": "\u0531\u0536\u0533\u0531\u0545\u053b\u0546 - \u053a\u0548\u0542\u0548\u054e\u0550\u0534\u0531\u054e\u0531\u0550\u0531\u053f\u0531\u0546 \u0532\u0535\u054e\u0535\u054c",
-      "url": "https://www.youtube.com/user/preparliament/about",
-      "id": 37
-    },
-    {
-      "name": "SHANT NEWS",
-      "url": "https://www.youtube.com/c/SHANTNEWS/about",
-      "id": 38
     },
     {
       "name": "The Yerevan Times",
@@ -215,32 +103,10 @@
       "id": 42
     },
     {
-      "name": "Tert. am",
-      "url": "https://www.youtube.com/user/tertamarmenia/about",
-      "id": 43
-    },
-    {
-      "name": "Suren Sargsyan",
-      "url": "https://www.youtube.com/channel/UC-IEdDubp1Io--BquY-183g/about",
-      "id": 44
-    },
-    {
       "name": "The Great Armenia",
       "url": "https://www.youtube.com/c/TheGreatArmenia/about",
       "id": 45
     },
-    {
-      "name": "PARATV",
-      "url": "https://www.youtube.com/c/PARADIPLOMACYTV/about",
-      "id": 46
-    },
-    {
-      "name": "POLICE RA Vostikanutyun",
-      "url": "https://www.youtube.com/c/Vostikanutyun/about",
-      "id": 47
-    }
-  ],
-  "Test Group D": [
     {
       "name": "Armenian National Network",
       "url": "https://www.youtube.com/c/ANNmedia/about",
@@ -252,9 +118,51 @@
       "id": 49
     },
     {
-      "name": "Armenian Second TV Channel / h2",
-      "url": "https://www.youtube.com/c/armh2/about",
-      "id": 50
+      "name": "\u053d\u0578\u057d\u0565\u0576\u0584 \u0553\u0561\u057d\u057f\u0565\u0580\u0578\u057e TV",
+      "url": "https://www.youtube.com/channel/UCZuKdeF9yfOjZ0J7AbBUOAw/about",
+      "id": 55
+    },
+    {
+      "name": "MenqHayenq Production",
+      "url": "https://www.youtube.com/channel/UCUfcIB5azeiUD2egV7p7FEQ/about",
+      "id": 63
+    },
+    {
+      "name": "New Channel tv",
+      "url": "https://www.youtube.com/channel/UCDOG_qfxSvI-Dv1tkGpo8Dw/about",
+      "id": 66
+    },
+    {
+      "name": "ARM GOOD INFO",
+      "url": "https://www.youtube.com/channel/UCenBDno0RFwOg23Kr00kJVg/about",
+      "id": 68
+    },
+    {
+      "name": "Styop Grigoryan",
+      "url": "https://www.youtube.com/user/123pepush/about",
+      "id": 71
+    }
+  ],
+  "Foreign Funded": [
+    {
+      "name": "1in.am",
+      "url": "https://www.youtube.com/c/1inam/about",
+      "id": 12
+    },
+    {
+      "name": "Factor tv",
+      "url": "http://www.youtube.com/c/Factortv/about",
+      "id": 1
+    },
+    {
+      "name": "azatutyun radio",
+      "url": "https://www.youtube.com/c/azatutyunradio/about",
+      "id": 3
+    },
+    {
+      "name": "CIVILNET",
+      "url": "https://www.youtube.com/c/CivilNetTV/about",
+      "id": 30
     },
     {
       "name": "\u0531\u0574\u0565\u0580\u056b\u056f\u0561\u0575\u056b \u0541\u0561\u0575\u0576 VOA Armenian",
@@ -262,9 +170,76 @@
       "id": 51
     },
     {
-      "name": "PastinfoTV",
-      "url": "https://www.youtube.com/user/PastinfoTV/about",
-      "id": 52
+      "name": "HetqTV",
+      "url": "https://www.youtube.com/user/HetqTV/about",
+      "id": 56
+    },
+    {
+      "name": "Repat Riarch",
+      "url": "https://www.youtube.com/c/RepatRiarch_official/about",
+      "id": 65
+    },
+    {
+      "name": "HorizonArmenianTV",
+      "url": "https://www.youtube.com/user/HorizonArmenianTV/about",
+      "id": 67
+    }
+  ],
+  "Neutral": [
+    {
+      "name": "a1Plus",
+      "url": "https://www.youtube.com/c/a1plus/about",
+      "id": 2
+    },
+    {
+      "name": "24TV",
+      "url": "https://www.youtube.com/c/24TVArmenia/about",
+      "id": 7
+    },
+    {
+      "name": "ArmLur official",
+      "url": "https://www.youtube.com/channel/UChjW08B983y0T2NvktcIjfg/about",
+      "id": 11
+    },
+    {
+      "name": "YELAKET / Yelaket News Agency /",
+      "url": "https://www.youtube.com/c/YelaketNewsAgency/about",
+      "id": 15
+    },
+    {
+      "name": "Asekose am",
+      "url": "https://www.youtube.com/user/ASEKOSEful/about",
+      "id": 22
+    },
+    {
+      "name": "ArmLur TV",
+      "url": "https://www.youtube.com/c/ArmLurTV/about",
+      "id": 25
+    },
+    {
+      "name": "\u053c\u0548\u0552\u0550\u0535\u0550 \u0546\u0578\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0576\u0565\u0580 \u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576\u056b\u0581",
+      "url": "https://www.youtube.com/user/LURERcom/about",
+      "id": 26
+    },
+    {
+      "name": "iravabannet",
+      "url": "https://www.youtube.com/user/iravabannet/about",
+      "id": 31
+    },
+    {
+      "name": "Tv9 am",
+      "url": "https://www.youtube.com/c/Tv9am/about",
+      "id": 36
+    },
+    {
+      "name": "SHANT NEWS",
+      "url": "https://www.youtube.com/c/SHANTNEWS/about",
+      "id": 38
+    },
+    {
+      "name": "PARATV",
+      "url": "https://www.youtube.com/c/PARADIPLOMACYTV/about",
+      "id": 46
     },
     {
       "name": "ArmeniaTV News",
@@ -277,27 +252,94 @@
       "id": 54
     },
     {
-      "name": "\u053d\u0578\u057d\u0565\u0576\u0584 \u0553\u0561\u057d\u057f\u0565\u0580\u0578\u057e TV",
-      "url": "https://www.youtube.com/channel/UCZuKdeF9yfOjZ0J7AbBUOAw/about",
-      "id": 55
+      "name": "\u053c\u0550\u0531\u054f\u054e\u0531\u053f\u0531\u0546 \u054c\u0531\u0534\u053b\u0548 FM106.5",
+      "url": "https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA/about",
+      "id": 64
     },
     {
-      "name": "HetqTV",
-      "url": "https://www.youtube.com/user/HetqTV/about",
-      "id": 56
+      "name": "AsekoseTV",
+      "url": "https://www.youtube.com/channel/UCmsV3ead5PvSJwp6M6vik-A/about",
+      "id": 72
+    }
+  ],
+  "Opposition (non-parliamentary)": [
+    {
+      "name": "Vardan Ghukasyan \u054e\u0561\u0580\u0564\u0561\u0576 \u0542\u0578\u0582\u056f\u0561\u057d\u0575\u0561\u0576",
+      "url": "https://www.youtube.com/channel/UChXhis-jyFXzMw4o9hML3vA/about",
+      "id": 6
     },
     {
-      "name": "Artsakh Public TV",
-      "url": "https://www.youtube.com/channel/UC0bE8sdgd54oJBscXJfupCw/about",
-      "id": 57
+      "name": "\u0532\u0561\u0581 TV",
+      "url": "https://www.youtube.com/channel/UCf2o81mWr-bZsLbq2-kOYTQ/about",
+      "id": 29
+    },
+    {
+      "name": "AD TV",
+      "url": "https://www.youtube.com/channel/UC8k_9xHrn82EV_oSFXBE6Cw/about",
+      "id": 32
+    },
+    {
+      "name": "\u0531\u0536\u0533\u0531\u0545\u053b\u0546 - \u053a\u0548\u0542\u0548\u054e\u0550\u0534\u0531\u054e\u0531\u0550\u0531\u053f\u0531\u0546 \u0532\u0535\u054e\u0535\u054c",
+      "url": "https://www.youtube.com/user/preparliament/about",
+      "id": 37
+    }
+  ],
+  "Opposition": [
+    {
+      "name": "NEWS AM",
+      "url": "https://www.youtube.com/c/NewsamChannel/about",
+      "id": 9
+    },
+    {
+      "name": "5 TV Channel",
+      "url": "https://www.youtube.com/c/AraratTv/about",
+      "id": 17
+    },
+    {
+      "name": "ArmNews",
+      "url": "https://www.youtube.com/user/ArmnewsTV/about",
+      "id": 23
+    },
+    {
+      "name": "HAYELI AM",
+      "url": "https://www.youtube.com/c/Hayeliam_Hayeli_Akumb/about",
+      "id": 13
+    },
+    {
+      "name": "Live News",
+      "url": "https://www.youtube.com/channel/UCCllZTHrcly_pkPvb_V1ovA/about",
+      "id": 33
+    },
+    {
+      "name": "Novosti-Armenia",
+      "url": "https://www.youtube.com/c/NovostiArmenia/about",
+      "id": 34
+    },
+    {
+      "name": "Kentron Channel",
+      "url": "https://www.youtube.com/c/KentronChannel/about",
+      "id": 35
+    },
+    {
+      "name": "Tert. am",
+      "url": "https://www.youtube.com/user/tertamarmenia/about",
+      "id": 43
+    },
+    {
+      "name": "Armenian Second TV Channel / h2",
+      "url": "https://www.youtube.com/c/armh2/about",
+      "id": 50
+    },
+    {
+      "name": "PastinfoTV",
+      "url": "https://www.youtube.com/user/PastinfoTV/about",
+      "id": 52
     },
     {
       "name": "Yerevan Today Live",
       "url": "https://www.youtube.com/c/YerevanTodayNews/about",
       "id": 58
-    }
-  ],
-  "Test Group E": [
+    },
     {
       "name": "Hraparak TV",
       "url": "https://www.youtube.com/c/Hraparakdaily/about",
@@ -319,54 +361,9 @@
       "id": 62
     },
     {
-      "name": "MenqHayenq Production",
-      "url": "https://www.youtube.com/channel/UCUfcIB5azeiUD2egV7p7FEQ/about",
-      "id": 63
-    },
-    {
-      "name": "\u053c\u0550\u0531\u054f\u054e\u0531\u053f\u0531\u0546 \u054c\u0531\u0534\u053b\u0548 FM106.5",
-      "url": "https://www.youtube.com/channel/UCaJCNkhSa84QcuOSoM2WfcA/about",
-      "id": 64
-    },
-    {
-      "name": "Repat Riarch",
-      "url": "https://www.youtube.com/c/RepatRiarch_official/about",
-      "id": 65
-    },
-    {
-      "name": "New Channel tv",
-      "url": "https://www.youtube.com/channel/UCDOG_qfxSvI-Dv1tkGpo8Dw/about",
-      "id": 66
-    },
-    {
-      "name": "HorizonArmenianTV",
-      "url": "https://www.youtube.com/user/HorizonArmenianTV/about",
-      "id": 67
-    },
-    {
-      "name": "ARM GOOD INFO",
-      "url": "https://www.youtube.com/channel/UCenBDno0RFwOg23Kr00kJVg/about",
-      "id": 68
-    },
-    {
       "name": "Politik. am",
       "url": "https://www.youtube.com/c/Politikam2021/about",
       "id": 69
-    },
-    {
-      "name": "armtimes.com",
-      "url": "https://www.youtube.com/c/ArmtimesNewspaper/about",
-      "id": 70
-    },
-    {
-      "name": "Styop Grigoryan",
-      "url": "https://www.youtube.com/user/123pepush/about",
-      "id": 71
-    },
-    {
-      "name": "AsekoseTV",
-      "url": "https://www.youtube.com/channel/UCmsV3ead5PvSJwp6M6vik-A/about",
-      "id": 72
     },
     {
       "name": "Aysor TV",
