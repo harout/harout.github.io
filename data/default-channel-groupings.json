@@ -1,31 +1,4 @@
 {
-  "Governmnet": [
-    {
-      "name": "Armenian Public TV",
-      "url": "https://www.youtube.com/c/ArmenianPublicTV/about",
-      "id": 16
-    },
-    {
-      "name": "Suren Sargsyan",
-      "url": "https://www.youtube.com/channel/UC-IEdDubp1Io--BquY-183g/about",
-      "id": 44
-    },
-    {
-      "name": "POLICE RA Vostikanutyun",
-      "url": "https://www.youtube.com/c/Vostikanutyun/about",
-      "id": 47
-    },
-    {
-      "name": "Artsakh Public TV",
-      "url": "https://www.youtube.com/channel/UC0bE8sdgd54oJBscXJfupCw/about",
-      "id": 57
-    },
-    {
-      "name": "armtimes.com",
-      "url": "https://www.youtube.com/c/ArmtimesNewspaper/about",
-      "id": 70
-    }
-  ],
   "Dubious": [
     {
       "name": "perfect tv",
@@ -141,6 +114,33 @@
       "name": "Styop Grigoryan",
       "url": "https://www.youtube.com/user/123pepush/about",
       "id": 71
+    }
+  ],
+  "Governmnet": [
+    {
+      "name": "Armenian Public TV",
+      "url": "https://www.youtube.com/c/ArmenianPublicTV/about",
+      "id": 16
+    },
+    {
+      "name": "Suren Sargsyan",
+      "url": "https://www.youtube.com/channel/UC-IEdDubp1Io--BquY-183g/about",
+      "id": 44
+    },
+    {
+      "name": "POLICE RA Vostikanutyun",
+      "url": "https://www.youtube.com/c/Vostikanutyun/about",
+      "id": 47
+    },
+    {
+      "name": "Artsakh Public TV",
+      "url": "https://www.youtube.com/channel/UC0bE8sdgd54oJBscXJfupCw/about",
+      "id": 57
+    },
+    {
+      "name": "armtimes.com",
+      "url": "https://www.youtube.com/c/ArmtimesNewspaper/about",
+      "id": 70
     }
   ],
   "Foreign Funded": [
