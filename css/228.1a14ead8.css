@@ -1,0 +1,1 @@
+.sticky-header-table{height:800px}.sticky-header-table .q-table__bottom,.sticky-header-table .q-table__top,.sticky-header-table thead tr:first-child th{background-color:#fff}.sticky-header-table thead tr th{position:sticky;z-index:1}.sticky-header-table thead tr:first-child th{top:0}
